@@ -11,5 +11,5 @@
 9. pip install requests
 10. pip2 install mechanize
 git clone https://github.com/Hackers20/Crack-Fb
-cd Crack-Fb
-sh Dark.sh
+11. cd Crack-Fb
+12. sh Dark.fb
