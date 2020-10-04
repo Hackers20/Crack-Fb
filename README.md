@@ -10,3 +10,6 @@
 8. gem install lolcat
 9. pip install requests
 10. pip2 install mechanize
+git clone https://github.com/Hackers20/Crack-Fb
+cd Crack-Fb
+sh Dark.sh
